@@ -30,6 +30,7 @@ Descargado de ftp://ftp.geo.euskadi.net/cartografia/Limites/CB_MUNICIPIOS_5000_E
 
 * pandas
 * pandas3
+* gnumeric
 
 * python3-geopandas
 * python3-pandas
